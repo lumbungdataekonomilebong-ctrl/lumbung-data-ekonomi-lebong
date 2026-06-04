@@ -86,8 +86,7 @@ export default function Home() {
             Lumbung Data Ekonomi Lebong adalah platform data resmi
             milik Pemerintah Kabupaten Lebong yang dikelola oleh
             Bagian Perekonomian dan SDA Sekretariat Daerah
-            Kabupaten Lebong bekerja sama dengan BPS Kabupaten
-            Lebong.
+            Kabupaten Lebong.
           </p>
         </div>
       </section>
