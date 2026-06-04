@@ -43,7 +43,7 @@ export default function EFormPage() {
 
             <p className="text-gray-700 mb-6">
               Klik tombol berikut untuk mengakses formulir
-              permintaan data.
+              setoran data.
             </p>
 
             <a

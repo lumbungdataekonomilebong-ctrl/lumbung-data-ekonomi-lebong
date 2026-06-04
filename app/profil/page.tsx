@@ -14,16 +14,15 @@ export default function ProfilPage() {
       </section>
 
       <section className="max-w-6xl mx-auto px-6 py-20">
-        <h2 className="text-3xl font-bold mb-6">
-          Tentang Portal
-        </h2>
+  <h2 className="text-3xl font-bold mb-6">
+    Tentang Portal
+  </h2>
 
-        <p className="leading-8 text-lg">
-          Lumbung Data Ekonomi Lebong adalah platform data resmi
-          milik Pemerintah Kabupaten Lebong yang dikelola bersama
-          Badan Pusat Statistik Kabupaten Lebong.
-        </p>
-
+  <p className="leading-8 text-lg">
+    Lumbung Data Ekonomi Lebong adalah platform data resmi milik
+    Pemerintah Kabupaten Lebong yang dikelola oleh Bagian
+    Perekonomian dan SDA Sekretariat Daerah Kabupaten Lebong.
+  </p>
         <br />
 
         <p className="leading-8 text-lg">
