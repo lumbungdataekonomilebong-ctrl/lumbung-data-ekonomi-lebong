@@ -24,11 +24,11 @@ export default function EFormPage() {
         <div className="bg-white p-10 rounded-2xl shadow-md">
 
           <h2 className="text-3xl font-bold text-blue-900 mb-6">
-            Form Permintaan Data
+            Form Setoran Data
           </h2>
 
           <p className="text-gray-700 leading-8 mb-8">
-            Pengguna dapat mengajukan permintaan data melalui
+            Pengguna dapat menyerahkan data melalui
             formulir online yang telah disediakan. Setiap
             permohonan akan diverifikasi dan diproses oleh
             pengelola Lumbung Data Ekonomi Lebong.
@@ -52,7 +52,7 @@ export default function EFormPage() {
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 bg-blue-900 text-white px-8 py-3 rounded-full hover:bg-blue-700 transition duration-300 shadow-md"
             >
-              📝 Isi Formulir Permintaan Data
+              📝 Isi Formulir Setoran Data
             </a>
 
           </div>
