@@ -136,6 +136,20 @@ export default function Home() {
               </div>
             </a>
 
+            <a
+  href="https://drive.google.com/file/d/1DK6hz6EzxGvWBJ_jgizxk2w-ytFHCRGk/view?usp=sharing"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <div className="bg-white p-8 rounded-xl shadow hover:shadow-2xl hover:-translate-y-2 transition">
+    <div className="text-5xl mb-4">🎥</div>
+    <h3 className="text-xl font-bold">
+      Video Tutorial
+    </h3>
+  </div>
+</a>
+
+      
           </div>
         </div>
       </section>
